@@ -1,6 +1,6 @@
 # 268_kick_fixer
 Automaticly fix roblox's 268 error <br />
-maded by mstudio45 <br />
+maded by mstudio45#5590 on discord <br />
 [Download Link](https://github.com/rbxlscripts/268_kick_fixer/raw/main/268_kick_fixer.exe) <br />
 ## how to use
 ![1](https://github.com/rbxlscripts/268_kick_fixer/blob/main/tutorial/1.png?raw=true) <br />
