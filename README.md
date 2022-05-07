@@ -1,4 +1,4 @@
-# 268_kick_fixer
+# 268 kick fixer by mstudio45
 Automaticly fix roblox's 268 error <br />
 maded by mstudio45#5590 on discord <br />
 [Download Link - v2](https://github.com/rbxlscripts/268_kick_fixer/raw/main/268_kick_fixer.exe) <br />
