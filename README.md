@@ -11,7 +11,7 @@ This program was maded by mstudio45#5590 on discord <br />
 - Disable your antivirus if it gets false detected as virus
 - WARNING: PLEASE FOLLOW INSTRUCTIONS WHILE USING THE PROGRAM
 ```
-*video will be updated soon*
+*new video will be updated soon*
 <video src='https://user-images.githubusercontent.com/104306541/167264830-49acc45d-ad70-4b12-8726-fcb0c0d340ae.mp4'/> <br />
 ## changelog
 ```diff
