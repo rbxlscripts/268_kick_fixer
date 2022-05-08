@@ -8,11 +8,11 @@ This program was maded by mstudio45#5590 on discord <br />
 ```
 ## Changelog
 ```diff
-+ Fixed half of the false virus detections
++ Fixed false virus detections
 ```
 ## How To Use
 ```diff
 - Disable your antivirus if it gets false detected as virus
 - WARNING: PLEASE FOLLOW INSTRUCTIONS WHILE USING THE PROGRAM
 ```
-<video src='https://user-images.githubusercontent.com/104306541/167264830-49acc45d-ad70-4b12-8726-fcb0c0d340ae.mp4'/> <br />
+<video src='https://user-images.githubusercontent.com/104306541/167296696-ca4f7162-5b21-4ba2-91c6-452c92131230.mp4'/> <br />
